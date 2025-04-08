@@ -10,6 +10,8 @@ function Projects() {
                 • Quickly learned the Microsoft Copilot Studio tooling to begin the development of the chatbot, receiving fundamental knowledge of development with the tool.
                 • Utilized the Scrum framework to manage project development, collaborating with the product owner and team in sprint-based iterations, maintaining a product backlog, and applying incremental improvements throughout the life of the project.
                 • Used various tools and technologies including Microsoft Copilot Studio, Microsoft Teams, Zoom, Basecamp, and a kanban board for chatbot development, effective communication, tracking progress, and managing tasks.</p>
+            <h3>RambleBot - SDEV 301</h3>
+            <h3>ScrewTape - SDEV 333</h3>
         </div>
       </>
     )
